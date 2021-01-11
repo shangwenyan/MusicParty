@@ -1,2 +1,2 @@
 # MusicParty
- A full stack music share website 
+ A full stack music share web application
